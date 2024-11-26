@@ -55,5 +55,14 @@ for registro in historial:
     print(f"{registro['tiempo']:<15} {registro['frecuencia']:<20}")
     
     """
-    
+    Nombre: Carlos
+Edad: 44 años
+Frecuencia Cardíaca Máxima: 176 pulsos por minuto
+Rango de Frecuencia Cardíaca Esperada: 88.00 - 149.60 pulsos por minuto
+
+Historial de Seguimiento:
+Tiempo (min)    Frecuencia (ppm)    
+30              106
+45              154
+60              123
     """
