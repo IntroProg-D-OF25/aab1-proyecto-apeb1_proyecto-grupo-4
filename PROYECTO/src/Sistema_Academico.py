@@ -72,5 +72,43 @@ def main(
     print(f"Porcentaje de reprobados: {porcentaje_reprobados:}%")
 if __name__ == "__main__":
     main()
+"""
+Resultados de las calificaciones:
+Nombre: Juan, Cédula: 151720760, Materia: Programación
+Calificaciones -> ACD: 3.03, APE: 2.02, AA: 2.09
+Suma Total de Notas: 7.140071883352575
+Resultado: Aprobado
 
+Nombre: Laura, Cédula: 875132642, Materia: Programación
+Calificaciones -> ACD: 2.98, APE: 2.02, AA: 2.04
+Suma Total de Notas: 7.041819522911867
+Resultado: Aprobado
+
+Nombre: Pedro, Cédula: 182134233, Materia: Programación
+Calificaciones -> ACD: 3.00, APE: 0.24, AA: 0.90
+Suma Total de Notas: 4.129708648602909
+Resultado: Reprobado
+Nota de recuperación: 3.5/10 pts agregados al 60% acumulado
+
+Nombre: Luis, Cédula: 456417283, Materia: Programación
+Calificaciones -> ACD: 3.48, APE: 1.33, AA: 2.20
+Suma Total de Notas: 7.011740423046337
+Resultado: Aprobado
+
+Nombre: Luis, Cédula: 922880725, Materia: Programación
+Calificaciones -> ACD: 2.44, APE: 3.47, AA: 0.99
+Suma Total de Notas: 6.89363297689115
+Resultado: Reprobado
+Nota de recuperación: 3.5/10 pts agregados al 60% acumulado
+
+Nombre: Maria, Cédula: 566875579, Materia: Programación
+Calificaciones -> ACD: 0.57, APE: 0.39, AA: 0.77
+Suma Total de Notas: 1.7267010413396926
+Resultado: Reprobado
+Nota de recuperación: 3.5/10 pts agregados al 60% acumulado
+
+Estadísticas finales:
+Porcentaje de aprobados: 50.0%
+Porcentaje de reprobados: 50.0%
+    """
     
