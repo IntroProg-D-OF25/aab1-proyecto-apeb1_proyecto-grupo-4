@@ -37,7 +37,7 @@ public class SistemAcademicoUTPL {
             // Generación aleatoria de las calificaciones
             calificacionacd = 1.0 + rand.nextDouble() * 2.5; // Genera calificación entre 1.0 y 3.5
             calificacionape = 1.0 + rand.nextDouble() * 2.5; // Genera calificación entre 1.0 y 3.5
-            calificacionaa = 1.0 + rand.nextDouble() * 2.5; // Genera calificación entre 1.0 y 3.5
+            calificacionaa = 1.0 + rand.nextDouble() * 2.0; // Genera calificación entre 1.0 y 3.5
             
             // Calcular la suma de las calificaciones
             sumacalificaciones = calificacionacd + calificacionape + calificacionaa;
